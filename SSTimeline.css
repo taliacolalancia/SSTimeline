@@ -1,0 +1,169 @@
+body{
+	font-family:helvetica, arial, sans-serif;
+	background-color:rgb(0,0,0);
+	margin:0px auto; /*Gets rid of the natural margin around the browser window edges*/
+	background-image:rgb(0,0,0);
+}
+
+/*Home/Start Page*/
+
+#container1{
+	margin:0px auto;
+	background-color:rgb(0,0,0);
+	font-family:"Modern No. 20", sans-serif;
+	width:1550px;
+}
+
+h1{
+	margin:0px auto;
+	padding:0px;
+	color:rgb(255,255,255);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:4em;
+	text-align:center;
+}
+
+h2{
+	margin:0px auto;
+	padding:0px;
+	color:rgb(255,255,255);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:2.5em;
+	text-align:center;
+}
+
+h3{
+	margin-top:15px;
+	margin-bottom:40px;
+	padding:0px;
+	color:rgb(255,255,255);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1.5em;
+	text-align:center;
+}
+
+#scale{
+	margin:0 px auto;
+	padding:15px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img{
+	margin:0px auto;
+	padding:3px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img2{
+	margin-top:60px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img3{
+	margin:67px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img4{
+	margin:1px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img5{
+	margin:40px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img6{
+	margin:0px auto;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img7{
+	margin-top:800px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img8{
+	margin-top:1400px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img9{
+	margin-top:7000px;
+	padding:10px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img10{
+	margin-top:14950px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img11{
+	margin-top:1000px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img12{
+	margin-top:1000px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#img13{
+	margin-top:90000px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
